@@ -1,0 +1,36 @@
+$Primary :rgb(153, 208, 182);
+.home{
+    height: fit-content;
+    width: 100%;
+    background: #fff;
+    display: flex;
+    align-items: center;
+}
+.left{
+    height: 90vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-title{
+    text-align: center;
+    font-size: 5em;
+    span{
+        color:$Primary
+    }
+}
+.home-subtitle{
+    text-align: left;
+    font-size: 2em;
+    font-weight: 300;
+
+}
+.right{
+    height: 90vh;
+    width: 50%;
+    background: url('../../misc/008.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

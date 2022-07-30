@@ -1,0 +1,45 @@
+.about{
+    margin-top: 2em;
+    height: 80vh;
+    width: 100%;
+    margin-bottom: 2em;
+    h1{
+        text-align: center;
+        font-size: 3em;
+        margin-bottom: 1em;
+        text-transform: uppercase;
+    }
+    p{
+        max-width: 80%;
+        margin: auto;
+        font-size: 2em;
+        text-align: justify;
+    }
+}
+.links{
+    margin-top: 3em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    div{
+        color: black;
+    }
+
+}
+.link{
+    margin: 0em 1em;
+    // box-shadow: 0 0 10px black;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5em;
+    height: 5em;
+    transition: 0.4s;
+}
+.link:hover{
+    box-shadow: inset 0px 0px 5px rgba(0, 0, 0, 0.262) ;
+}
+.links-title{
+    margin-top: 1em;
+}
