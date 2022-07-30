@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.48f08716.css",
+    "main.js": "/cv/static/js/main.310bbfd4.js",
+    "static/media/008.png": "/cv/static/media/008.1d6873ef5beda4e69e4f.png",
+    "static/media/icons8-телеграмма-app-50.svg": "/cv/static/media/icons8-телеграмма-app-50.22fe0e7eb862609a9d53a10440aef051.svg",
+    "static/media/icons8-github-50.svg": "/cv/static/media/icons8-github-50.879ef3eb7f5935b58d473dfb2858f4ad.svg",
+    "index.html": "/cv/index.html",
+    "static/media/icons8-gmail-50.svg": "/cv/static/media/icons8-gmail-50.ca57de0b9b5a9e7d4d4099f03c03514a.svg",
+    "static/media/icons8-instagram-50.svg": "/cv/static/media/icons8-instagram-50.9c12358046a4c68a6e33bdfdcdae1ed1.svg",
+    "main.48f08716.css.map": "/cv/static/css/main.48f08716.css.map",
+    "main.310bbfd4.js.map": "/cv/static/js/main.310bbfd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f08716.css",
+    "static/js/main.310bbfd4.js"
+  ]
+}
